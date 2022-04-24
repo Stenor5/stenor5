@@ -13,11 +13,9 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
 <img align="right" alt="GIF" src="https://github.com/evercreativedev/evercreativedev/blob/main/dev.gif" width="400"
   height="256" />
 
-- 🌱 I’m currently learning blockchain technologies
-- 🤔 I’m looking to help with buliding defi and web apps
-- 💬 Ask me about web and blockchain development
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: ...
+- 🌱 I’m good at blockchain technologies
+- 🤔 I’m looking to help with buliding defi, dex and web apps.
+- 💬 Ask me about web and blockchain development.
 
 
 #### Blockchain Development
@@ -37,11 +35,6 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
 ![](https://img.shields.io/badge/Framework-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
-
-#### Other
-![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
 
 
 <h3 align="left">Languages and Tools:</h3>
