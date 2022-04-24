@@ -17,6 +17,7 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
 - 🤔 I’m looking to help with buliding defi, dex and web apps.
 - 💬 Ask me about web and blockchain development.
 
+### Please click here[https://stenor-portfolio.netlify.com] to visit my website.
 
 #### Blockchain Development
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
