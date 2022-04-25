@@ -10,9 +10,6 @@ and project management and blockchain technology.
 
 Nowadays I passionate about blockchain technologies so that I'm mainly focusing on the Defi development stack.
 
-<img align="right" alt="GIF" src="https://github.com/evercreativedev/evercreativedev/blob/main/dev.gif" width="400"
-  height="256" />
-
 - 🌱 I’m good at blockchain technologies
 - 🤔 I’m looking to help with buliding defi, dex and web apps.
 - 💬 Ask me about web and blockchain development.
@@ -44,22 +41,6 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-      alt="csharp"
       width="40"
       height="40"
     />
