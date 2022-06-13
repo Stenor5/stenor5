@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 This is Stenor Tanaka
+  <br /><img src="https://profile-counter.glitch.me/infiniteaengus/count.svg" />
+
 
 I am a Senior Full-Stack Blockchain Developer.
 I have over 7 years of experience in web & blockchain technology development and IT consult.
