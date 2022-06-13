@@ -1,5 +1,5 @@
 ### Hi there 👋 This is Stenor Tanaka
-  <br /><img src="https://profile-counter.glitch.me/infiniteaengus/count.svg" />
+  <br /><img src="https://profile-counter.glitch.me/stenor0515/count.svg" />
 
 
 I am a Senior Full-Stack Blockchain Developer.
