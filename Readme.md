@@ -1,4 +1,4 @@
-### Hi there 👋 This is Stenor Tanaka
+
 
   <br />
   <div style="display:none">
