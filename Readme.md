@@ -1,5 +1,5 @@
 <h2> Hi, there </h2>
-I am a Senior Full-Stack.
+I am a Senior Full-Stack developer.
 I have over 7 years of experience in web & blockchain technology development and IT consult.
 
 Passionate about launching, developing, and maintaining web and mobile projects requiring a
