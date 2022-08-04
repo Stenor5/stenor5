@@ -1,11 +1,5 @@
-
-  <br />
-  <div>
-  <img src="https://profile-counter.glitch.me/luckydev0515/count.svg" />
-  </div>
-
-
-I am a Senior Full-Stack Blockchain Developer.
+<h2> Hi, there </h2>
+I am a Senior Full-Stack.
 I have over 7 years of experience in web & blockchain technology development and IT consult.
 
 Passionate about launching, developing, and maintaining web and mobile projects requiring a
