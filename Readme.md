@@ -1,6 +1,6 @@
 
   <br />
-  <div style="display:none">
+  <div>
   <img src="https://profile-counter.glitch.me/luckydev0515/count.svg" />
   </div>
 
