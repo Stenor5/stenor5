@@ -7,14 +7,6 @@ broad yet experienced skillset. Intuitive problem-solving skills and proficient 
 back-end development, mobile app development, system and application security, auditing
 and project management and blockchain technology.
 
-Nowadays I passionate about blockchain technologies so that I'm mainly focusing on the Defi development stack.
-
-- 🌱 I’m good at blockchain technologies
-- 🤔 I’m looking to help with buliding defi, dex and web apps.
-- 💬 Ask me about web and blockchain development.
-
-<!-- ### Please click [here](https://stenor-portfolio.netlify.com) to visit my website. -->
-
 #### Blockchain Development
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
