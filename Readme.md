@@ -7,7 +7,7 @@ broad yet experienced skillset. Intuitive problem-solving skills and proficient 
 back-end development, mobile app development, system and application security, auditing
 and project management and blockchain technology.
 
-👍 My Core Skills…
+👍 My Core Skills… <br>
 📘 MERN, MEVN Stack Technology.
 📘 Blockchain Technology.
 ⚽ Smart Contract Development using Solidity and Rust
