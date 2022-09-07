@@ -7,6 +7,40 @@ broad yet experienced skillset. Intuitive problem-solving skills and proficient 
 back-end development, mobile app development, system and application security, auditing
 and project management and blockchain technology.
 
+👍 My Core Skills…
+📘 MERN, MEVN Stack Technology.
+📘 Blockchain Technology.
+⚽ Smart Contract Development using Solidity and Rust
+⚽ NFT, FT, DeX, DeFi Experience
+⚽ Several Blockchain Network like Ethereum, Solana, BSC, Polygon, Avalanche
+
+👍 My Detailed Skills…
+🎩 Front-end Field.
+React.js, Next.js, Vue.js, Nuxt.js
+JavaScript, TypeScript, HTML, CSS, Styled-component, Bootstrap, MUI, Tailwind CSS, Figma & PSD
+🎩 Back-end Field.
+Node.js, ExpressJS, Next.js API, Nest.js, Laravel
+MongoDB, MySQL, Firebase
+🎩 Blockchain Field.
+Solidity, Rust
+Web3.js, Ether.js
+Remix, Truffle, Hardhat
+ERC721, ERC721A, ERC20, BEP20, ERC1155
+NFT Minting, MarketPlace, Staking, Transfer, Token Development
+
+👍 Through the development of many projects, I had rich experience in web development and I found the most important development principles.
+⚽ Pixel perfect.
+⚽ Structured and optimized design of database.
+⚽ Smart and clean coding.
+⚽ Optimize of speed and code.
+⚽ Honest & royalty work, High quality & fast speed.
+⚽ Working on the flexible timezone.
+⚽ Keep the deadline.
+
+I always work with these principles and I update the project on GitHub per day.
+Also, I can work in time what you want, and I can work 8+hours per day according to your requirements.
+
+🔥🔥🔥🔥🔥 Only Perfect Result!!!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
