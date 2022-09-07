@@ -16,8 +16,8 @@ and project management and blockchain technology.
 <br>
 👍 My Detailed Skills…<br>
 🎩 Front-end Field.<br>
-React.js, Next.js, Vue.js, Nuxt.js<br>
-JavaScript, TypeScript, HTML, CSS, Styled-component, Bootstrap, MUI, Tailwind CSS, Figma & PSD<br>
+  React.js, Next.js, Vue.js, Nuxt.js<br>
+  JavaScript, TypeScript, HTML, CSS, Styled-component, Bootstrap, MUI, Tailwind CSS, Figma & PSD<br>
 🎩 Back-end Field.<br>
 Node.js, ExpressJS, Next.js API, Nest.js, Laravel<br>
 MongoDB, MySQL, Firebase<br>
