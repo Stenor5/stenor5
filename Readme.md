@@ -8,15 +8,15 @@ back-end development, mobile app development, system and application security, a
 and project management and blockchain technology.
 
 👍 My Core Skills… <br>
-📘 MERN, MEVN Stack Technology.<br>
-📘 Blockchain Technology.<br>
-⚽ Smart Contract Development using Solidity and Rust<br>
-⚽ NFT, FT, DeX, DeFi Experience<br>
-⚽ Several Blockchain Network like Ethereum, Solana, BSC, Polygon, Avalanche<br>
+&nbsp;📘 MERN, MEVN Stack Technology.<br>
+&nbsp;📘 Blockchain Technology.<br>
+&nbsp;⚽ Smart Contract Development using Solidity and Rust<br>
+&nbsp;⚽ NFT, FT, DeX, DeFi Experience<br>
+&nbsp;⚽ Several Blockchain Network like Ethereum, Solana, BSC, Polygon, Avalanche<br>
 <br>
 👍 My Detailed Skills…<br>
-🎩 Front-end Field.<br>
-&nbsp;React.js, Next.js, Vue.js, Nuxt.js<br>
+&nbsp;🎩 Front-end Field.<br>
+&nbsp;&nbsp;&nbsp;React.js, Next.js, Vue.js, Nuxt.js<br>
 JavaScript, TypeScript, HTML, CSS, Styled-component, Bootstrap, MUI, Tailwind CSS, Figma & PSD<br>
 🎩 Back-end Field.<br>
 Node.js, ExpressJS, Next.js API, Nest.js, Laravel<br>
