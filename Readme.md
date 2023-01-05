@@ -20,7 +20,7 @@ and project management and blockchain technology.
 &nbsp;&nbsp;&nbsp;&nbsp;JavaScript, TypeScript, HTML, CSS, Styled-component, Bootstrap, MUI, Tailwind CSS, Figma & PSD<br>
 &nbsp;&nbsp;🎩 Back-end Field.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Node.js, ExpressJS, Next.js API, Nest.js, Laravel<br>
-&nbsp;&nbsp;&nbsp;&nbsp;MongoDB, MySQL, Firebase<br>
+&nbsp;&nbsp;&nbsp;&nbsp;MongoDB, MySQL, PostgreSQL, Firebase<br>
 &nbsp;&nbsp;🎩 Blockchain Field.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Solidity, Rust<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Web3.js, Ether.js<br>
