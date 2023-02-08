@@ -7,7 +7,7 @@ broad yet experienced skillset. Intuitive problem-solving skills and proficient 
 back-end development, mobile app development, system and application security, auditing
 and project management and blockchain technology.
 
-👍 My Core Skills… <br>
+<!-- 👍 My Core Skills… <br>
 &nbsp;&nbsp;📘 MERN, MEVN Stack Technology.<br>
 &nbsp;&nbsp;📘 Blockchain Technology.<br>
 &nbsp;&nbsp;⚽ Smart Contract Development using Solidity and Rust<br>
@@ -40,7 +40,7 @@ and project management and blockchain technology.
 I always work with these principles and I update the project on GitHub per day.<br>
 Also, I can work in time what you want, and I can work 8+hours per day according to your requirements.<br>
 <br>
-🔥🔥🔥🔥🔥 Only Perfect Result!!!<br>
+🔥🔥🔥🔥🔥 Only Perfect Result!!!<br> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
