@@ -1,6 +1,5 @@
 <h2> Hi, there </h2>
-I am a Senior Full-Stack developer.
-I have over 8 years of experience in web development and IT consult.
+I am a Senior Full-Stack developer with over 8 years of experience in web development and IT consult.
 
 Passionate about launching, developing, and maintaining web and mobile projects requiring a
 broad yet experienced skillset. Intuitive problem-solving skills and proficient in front and
