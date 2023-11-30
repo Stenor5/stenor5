@@ -4,7 +4,7 @@ I am a Senior Full-Stack developer with over 8 years of experience in web develo
 Passionate about launching, developing, and maintaining web and mobile projects requiring a
 broad yet experienced skillset. Intuitive problem-solving skills and proficient in front and
 back-end development, mobile app development, system and application security, auditing
-and project management and blockchain technology.
+and project management.
 
 <!-- 👍 My Core Skills… <br>
 &nbsp;&nbsp;📘 MERN, MEVN Stack Technology.<br>
